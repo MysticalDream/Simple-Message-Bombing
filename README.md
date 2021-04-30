@@ -1,4 +1,5 @@
 # Simple-Message-Bombing
+## 仅供学习交流，请勿用于骚扰他人
 ## 简单的qq和微信消息轰炸可执行文件
 ### [exe文件](https://github.com/myhonor123/Simple-Message-Bombing/blob/main/Bomb/Bomb.exe) 测试可以在Win10上正常运行
 ## 使用方法
