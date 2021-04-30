@@ -41,7 +41,7 @@ char selectcharacter();
 			printf("请输入轰炸次数:");
 	       flag= scanf("%d",&count);
 			if(count>MAX)
-				printf("请控制在30次以内\n");
+				printf("请控制在%d次以内\n",MAX);
 			else if(!flag||!(~flag))
 				printf("请输入数字\n");
 			else/*QQ轰炸函数*/
@@ -55,7 +55,7 @@ char selectcharacter();
 			printf("请输入轰炸次数:");
 	       flag= scanf("%d",&count);
 			if(count>MAX)
-				printf("请控制在30次以内\n");
+				printf("请控制在%d次以内\n",MAX);
 			else if(!flag||!(~flag))
 				printf("请输入数字\n");
 			else/*微信轰炸函数*/
