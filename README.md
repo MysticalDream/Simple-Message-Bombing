@@ -1,4 +1,4 @@
-# Simple-Message-Bombing（初学尝试）
+# Simple-Message-Bombing（初学尝试，没啥技术含量）
 ## 仅供学习交流，请勿用于骚扰他人
 ### [exe文件](https://github.com/myhonor123/Simple-Message-Bombing/blob/main/Bomb/Bomb.exe) 测试可以在Win10上正常运行
 ## 使用方法
